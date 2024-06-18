@@ -18,7 +18,7 @@
                 <label for="input_demissao">Data de Demissão:</label>
                 <input type="date" id="input_demissao" name="input_demissao" required>
             </div>
-            <button type="submit">Calcular Tempo de Serviço</button>
+            <button type="submit">Calcular</button>
         </form>
 
         <?php
