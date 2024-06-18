@@ -36,7 +36,7 @@
             $diasTrabalhados = $intervalo->d;
 
             echo "<div class='resultado-container'>";
-            echo "<h3>Tempo de Serviço Calculado:</h3>";
+            echo "<h3>Tempo de Trabalho:</h3>";
             echo "<p><strong>Anos:</strong> $anosTrabalhados</p>";
             echo "<p><strong>Meses:</strong> $mesesTrabalhados</p>";
             echo "<p><strong>Dias:</strong> $diasTrabalhados</p>";
